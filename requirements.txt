@@ -1,0 +1,4 @@
+PyMySQL
+pytest
+requests
+woocommerce
